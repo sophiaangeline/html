@@ -1,0 +1,17 @@
+body { 
+background-color:
+#ffffff;
+text-align: center;
+padding: 8px;
+font-family: Arial, sans-serif;
+  }
+nav {
+padding: 8px;
+text-align: center;
+}
+nav a {
+color: #436fe9;
+text-decoration: none;
+margin: 0 8px;
+font-family: Arial, sans-serif;
+}

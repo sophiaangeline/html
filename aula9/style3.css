@@ -1,0 +1,41 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff5f7; 
+    color: #3d2529; 
+}
+
+main {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px 16px;
+}
+
+.card {
+    background-color: #ffffff;
+    border-radius: 12px;
+    border: 2px solid #e8c7cc; 
+    padding: 14px 16px;
+    margin-bottom: 12px;
+}
+
+#promo-dia {
+    background-color: #8b3a4a; 
+    border: 2px solid #d4a373; 
+    color: #ffffff;
+    text-align: center;
+}
+
+
+.destaque {
+    border-color: #d4a373;
+    background-color: #fff0f3;
+}
+
+.esgotado {
+    opacity: 0.5;
+}
+
+.esgotado h4 {
+    text-decoration: line-through;
+}
